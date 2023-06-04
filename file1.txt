@@ -7,4 +7,4 @@ dev1a
 dev2a
 
 dev1 newer
-dev1 more
+dev1 more resolved
